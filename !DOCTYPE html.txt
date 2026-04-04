@@ -74,7 +74,7 @@
             display: flex;
             justify-content: center;
             padding: 20px;
-            user-select: none; /* منع تحديد النص */
+            user-select: none;
         }
 
         .container {
